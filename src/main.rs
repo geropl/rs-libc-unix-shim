@@ -1,4 +1,4 @@
-extern crate libc_unix_shim_lib as libc;
+extern crate libc_unix_shim as libc;
 
 use core::ffi::c_void;
 

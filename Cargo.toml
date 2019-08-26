@@ -1,11 +1,11 @@
 [package]
-name = "rs-libc-unix-shim"
+name = "libc-unix-shim"
 version = "0.1.0"
 authors = ["Gero Posmyk-Leinemann <gero.posmyk-leinemann@typefox.io>"]
 edition = "2018"
 
 [lib]
-name = "libc_unix_shim_lib"
+name = "libc_unix_shim"
 path = "src/lib.rs"
 
 [[bin]]
